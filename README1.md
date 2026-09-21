@@ -1,46 +1,56 @@
 # Sprint 1
 
-## Studentgegevens
+## Sprintdoel
 
-- Studentnaam: Ahmad Al Nabelsi
-- Studentnummer: 97115953
+In deze sprint bouw ik de basis van het Klantenbeheer Dashboard
+met Bootstrap.
 
-## Projectgegevens
-
-- Projectnaam: Klantenbeheer Dashboard
-- Sprint: 1
-- Begindatum: 21-09-2026
-- Einddatum: [datum einde sprint 1]
-
-## Doel van deze sprint
-
-Het doel van deze sprint is om het project goed voor te bereiden
-voordat ik begin met het verder ontwikkelen van de applicatie.
-
-Ik maak het plan van aanpak, controleer de bestaande bestanden,
-maak een Kanban-bord en bereid het ontwerp van de applicatie voor.
+Ik maak de algemene pagina-indeling, homepage, navigatie en sidebar.
+Daarnaast zorg ik ervoor dat de applicatie responsive werkt op
+mobiel, tablet en desktop.
 
 ## Activiteiten
 
-- Projectbestanden controleren.
-- GitHub repository voorbereiden.
-- README.md maken.
-- README1.md maken.
-- Projectkaart invullen.
-- Kanban-bord maken.
-- Plan van aanpak schrijven.
-- Huidige situatie beschrijven.
-- Gewenste situatie beschrijven.
-- Doelgroep bepalen.
-- Technieken bepalen.
-- Devices bepalen.
-- Testplan maken.
-- Wireframe of mockup maken.
-- Goedkeuring van de docent vragen.
+### Projectstructuur opzetten
+
+- Mappenstructuur voor HTML, CSS en JavaScript maken.
+- Bootstrap toevoegen aan het project.
+- Bootstrap Icons toevoegen.
+- Basisstructuur van de pagina's maken.
+
+### Homepage bouwen
+
+- Homepage opbouwen met Bootstrap.
+- Bootstrap Container gebruiken.
+- Bootstrap Grid toepassen.
+- Hoofdonderdelen van het dashboard plaatsen.
+
+### Navigatie en sidebar bouwen
+
+- Navbar maken.
+- Sidebar maken.
+- Navigatielinks toevoegen.
+- Navigatie tussen de verschillende pagina's instellen.
+
+### Dashboard bouwen
+
+- Dashboard-indeling maken.
+- Bootstrap Cards gebruiken.
+- Knoppen en iconen toevoegen.
+- Consistente opmaak voor de dashboardonderdelen maken.
+
+### Responsive design en testen
+
+- Layout responsive maken.
+- Weergave op mobiel testen.
+- Weergave op tablet testen.
+- Weergave op desktop testen.
+- Responsive problemen oplossen.
+- CSS controleren en waar nodig aanpassen.
 
 ## Verwacht resultaat
 
-Aan het einde van deze sprint is het project voorbereid
-en is het plan van aanpak klaar voor beoordeling door de docent.
+Aan het einde van Sprint 1 is de basis van het Klantenbeheer Dashboard gebouwd.
 
-Na goedkeuring kan ik beginnen met de ontwikkeling van de frontend.
+De applicatie heeft een homepage, navigatie, sidebar en dashboard.
+De basislayout is opgebouwd met Bootstrap en werkt responsive op mobiel, tablet en desktop.
