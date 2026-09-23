@@ -2,55 +2,38 @@
 
 ## Sprintdoel
 
-In deze sprint bouw ik de basis van het Klantenbeheer Dashboard
-met Bootstrap.
-
-Ik maak de algemene pagina-indeling, homepage, navigatie en sidebar.
-Daarnaast zorg ik ervoor dat de applicatie responsive werkt op
-mobiel, tablet en desktop.
+In deze sprint bouw ik de basis van de frontend en de homepage van het Klantenbeheer Dashboard met Bootstrap.
 
 ## Activiteiten
 
 ### Projectstructuur opzetten
 
-- Mappenstructuur voor HTML, CSS en JavaScript maken.
-- Bootstrap toevoegen aan het project.
+- Mappen voor CSS, JavaScript, afbeeldingen en gebruikerspagina's maken.
+- Bootstrap 5 toevoegen.
 - Bootstrap Icons toevoegen.
-- Basisstructuur van de pagina's maken.
 
-### Homepage bouwen
+### Basislayout bouwen
 
-- Homepage opbouwen met Bootstrap.
-- Bootstrap Container gebruiken.
-- Bootstrap Grid toepassen.
-- Hoofdonderdelen van het dashboard plaatsen.
+- De basis van index.html maken.
+- Sidebar bouwen met Bootstrap.
+- Navbar bouwen met Bootstrap.
 
-### Navigatie en sidebar bouwen
+### Klantenoverzicht bouwen
 
-- Navbar maken.
-- Sidebar maken.
-- Navigatielinks toevoegen.
-- Navigatie tussen de verschillende pagina's instellen.
+- Zoekveld op de homepage plaatsen.
+- Klantentabel maken met Bootstrap.
+- Klantgegevens in de tabel tonen.
 
-### Dashboard bouwen
+### Styling toevoegen
 
-- Dashboard-indeling maken.
-- Bootstrap Cards gebruiken.
-- Knoppen en iconen toevoegen.
-- Consistente opmaak voor de dashboardonderdelen maken.
+- Bootstrap classes gebruiken voor de layout.
+- Eigen CSS toevoegen voor de sidebar en pagina-indeling.
 
-### Responsive design en testen
+### Basis responsive maken
 
-- Layout responsive maken.
-- Weergave op mobiel testen.
-- Weergave op tablet testen.
-- Weergave op desktop testen.
-- Responsive problemen oplossen.
-- CSS controleren en waar nodig aanpassen.
+- De basislayout geschikt maken voor mobiel, tablet en desktop.
+- De weergave controleren en eenvoudige layoutproblemen oplossen.
 
 ## Verwacht resultaat
 
-Aan het einde van Sprint 1 is de basis van het Klantenbeheer Dashboard gebouwd.
-
-De applicatie heeft een homepage, navigatie, sidebar en dashboard.
-De basislayout is opgebouwd met Bootstrap en werkt responsive op mobiel, tablet en desktop.
+Een homepage met sidebar, navbar, zoekveld en klantenoverzicht, opgebouwd met Bootstrap en klantgegevens.
