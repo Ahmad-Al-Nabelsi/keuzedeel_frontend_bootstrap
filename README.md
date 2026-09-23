@@ -7,11 +7,14 @@
 
 ## Projectbeschrijving
 
-Voor het keuzedeel Frontend Development ontwikkel ik een responsive webapplicatie voor het beheren van klantgegevens.
+Voor het keuzedeel Frontend Development ontwikkel ik een responsive frontend voor het beheren van klantgegevens.
 
 De gebruiker kan klanten bekijken, zoeken, toevoegen en wijzigen.
 
 De frontend wordt ontwikkeld met HTML, CSS, JavaScript en Bootstrap en werkt op mobiel, tablet en desktop.
+
+Dit project bevat alleen de frontend.
+Een backend en database vallen buiten dit project.
 
 ## Periode
 
@@ -21,28 +24,30 @@ De frontend wordt ontwikkeld met HTML, CSS, JavaScript en Bootstrap en werkt op 
 ## Functionaliteiten
 
 - Klantenoverzicht.
-- Klant bekijken.
 - Klant zoeken.
-- Nieuwe klant toevoegen.
+- Klant bekijken.
+- Klant toevoegen.
 - Klantgegevens wijzigen.
 - Navigatie tussen de pagina's.
 - Responsive layout.
+- Sidebar.
+- Light/dark mode.
 
 ## Technieken
 
 - HTML
 - CSS
 - JavaScript
-- Bootstrap
+- Bootstrap 5
 - Bootstrap Icons
 - Git
 - GitHub
 
 ## Leerdoelen
 
-- Bootstrap correct leren gebruiken.
-- Responsive webpagina's maken.
+- Bootstrap correct gebruiken.
+- Responsive pagina's bouwen.
 - HTML, CSS en JavaScript verbeteren.
 - Git en GitHub gebruiken voor versiebeheer.
-- De website testen op verschillende apparaten.
+- De frontend testen op verschillende schermformaten.
 - Basisprincipes van SEO toepassen.
