@@ -15,8 +15,7 @@ In deze sprint bouw ik de openbare loginpagina van het Klantenbeheer Dashboard m
 ### Loginpagina bouwen
 
 - Titel en korte uitleg over de applicatie plaatsen.
-- E-mailveld maken.
-- Wachtwoordveld maken.
+- E-mailveld maken en wachtwoordveld maken.
 - Oog-icoon voor het wachtwoord toevoegen.
 - Link Wachtwoord vergeten? plaatsen.
 - Knop Inloggen toevoegen.
