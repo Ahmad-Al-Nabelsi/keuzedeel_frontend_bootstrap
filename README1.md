@@ -1,18 +1,8 @@
 # Sprint 1
 
-## Studentgegevens
-
-- Studentnaam: Ahmad Al Nabelsi
-- Studentnummer: 97115953
-
 ## Sprintdoel
 
-In deze sprint bouw ik de basis van de frontend en de homepage van het Klantenbeheer Dashboard met Bootstrap.
-
-## Periode
-
-- Begindatum: 24-09-2026
-- Einddatum: 30-09-2026
+In deze sprint bouw ik de openbare loginpagina van het Klantenbeheer Dashboard met Bootstrap en koppel ik deze aan het bestaande dashboard als frontendnavigatie.
 
 ## Activiteiten
 
@@ -22,28 +12,31 @@ In deze sprint bouw ik de basis van de frontend en de homepage van het Klantenbe
 - Bootstrap 5 toevoegen.
 - Bootstrap Icons toevoegen.
 
-### Basislayout bouwen
+### Loginpagina bouwen
 
-- De basis van index.html maken.
-- Sidebar bouwen met Bootstrap.
-- Navbar bouwen met Bootstrap.
+- Titel en korte uitleg over de applicatie plaatsen.
+- E-mailveld maken.
+- Wachtwoordveld maken.
+- Oog-icoon voor het wachtwoord toevoegen.
+- Link Wachtwoord vergeten? plaatsen.
+- Knop Inloggen toevoegen.
+- Knop Account aanmaken toevoegen.
+- Contact-menu toevoegen zonder aparte pagina.
 
-### Klantenoverzicht bouwen
+### Navigatie koppelen
 
-- Zoekveld op de homepage plaatsen.
-- Klantentabel maken met Bootstrap.
-- Klantgegevens in de tabel tonen.
+- Knop Inloggen koppelen aan het dashboard.
+- Begroeting met gebruikersnaam in het dashboard plaatsen.
+- Knop Uitloggen toevoegen.
+- Knop Uitloggen koppelen aan de loginpagina.
 
-### Styling toevoegen
+### Responsive design en testen
 
-- Bootstrap classes gebruiken voor de layout.
-- Eigen CSS toevoegen voor de sidebar en pagina-indeling.
-
-### Basis responsive maken
-
-- De basislayout geschikt maken voor mobiel, tablet en desktop.
-- De weergave controleren en eenvoudige layoutproblemen oplossen.
+- Loginpagina responsive maken.
+- Loginpagina testen op mobiel, tablet en desktop.
+- Navigatie tussen loginpagina en dashboard testen.
+- Layoutproblemen oplossen.
 
 ## Verwacht resultaat
 
-Een homepage met sidebar, navbar, zoekveld en klantenoverzicht, opgebouwd met Bootstrap en klantgegevens.
+Een responsive loginpagina die als frontenddemo naar het Klantenbeheer Dashboard navigeert en via Uitloggen teruggaat naar de loginpagina.
