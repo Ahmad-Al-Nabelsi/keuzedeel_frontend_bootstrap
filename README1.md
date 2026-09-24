@@ -1,8 +1,18 @@
 # Sprint 1
 
+## Studentgegevens
+
+- Studentnaam: Ahmad Al Nabelsi
+- Studentnummer: 97115953
+
 ## Sprintdoel
 
 In deze sprint bouw ik de basis van de frontend en de homepage van het Klantenbeheer Dashboard met Bootstrap.
+
+## Periode
+
+- Begindatum: 24-09-2026
+- Einddatum: 30-09-2026
 
 ## Activiteiten
 
